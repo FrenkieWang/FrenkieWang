@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Welcome to **FrenkieWang/FrenkieWang**'s Github✨.
+Welcome to **FrenkieWang**'s Github✨.
 
 - 👯 I’m graduated from **Maynooth University**.
 - 🔭 I’m currently working at **AON**🔴⚪.
