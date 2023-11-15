@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**FrenkieWang/FrenkieWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to **FrenkieWang/FrenkieWang**'s Github✨.
 
 Here are some ideas to get you started:
 
