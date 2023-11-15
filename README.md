@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 
 Welcome to **FrenkieWang**'s Github✨.
