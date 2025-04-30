@@ -20,6 +20,8 @@ Welcome to **FrenkieWang**'s Github✨.
 - [Travel_Log_Full_Stack_Application](https://github.com/FrenkieWang/Travel_Log_Full_Stack_Application)
 
 ### Finished Project in 2024
+- [food_pyramid](https://github.com/FrenkieWang/food_pyramid)
+- [Simon_Game](https://github.com/FrenkieWang/Simon_Game)
 
 ### Finished Project in 2023
 - [Firebase Auth + CRUD Tutorial](https://github.com/FrenkieWang/Firebase_SimpleAuth)
