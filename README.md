@@ -22,6 +22,8 @@ Welcome to **FrenkieWang**'s Github✨.
 ### Finished Project in 2024
 - [food_pyramid](https://github.com/FrenkieWang/food_pyramid)
 - [Simon_Game](https://github.com/FrenkieWang/Simon_Game)
+- [Students_Assignments_Table](https://github.com/FrenkieWang/Students_Assignments_Table)
+- [Gym-Member-Class-Management](https://github.com/FrenkieWang/Gym-Member-Class-Management)
 
 ### Finished Project in 2023
 - [Firebase Auth + CRUD Tutorial](https://github.com/FrenkieWang/Firebase_SimpleAuth)
