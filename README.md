@@ -20,7 +20,7 @@ Welcome to **FrenkieWang**'s Github✨.
 - [Travel_Log_Full_Stack_Application](https://github.com/FrenkieWang/Travel_Log_Full_Stack_Application)
 
 ### Finished Project in 2024
-- [food_pyramid](https://github.com/FrenkieWang/food_pyramid)
+- [Food_Pyramid](https://github.com/FrenkieWang/food_pyramid)
 - [Simon_Game](https://github.com/FrenkieWang/Simon_Game)
 - [Students_Assignments_Table](https://github.com/FrenkieWang/Students_Assignments_Table)
 - [Phone-User-Management](https://github.com/FrenkieWang/Phone-User-Management)
