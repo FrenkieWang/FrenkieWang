@@ -13,4 +13,5 @@ Welcome to **FrenkieWang**'s Github✨.
 
 
 ### Sample Projects
+- [Pomodoro_Timer](https://github.com/FrenkieWang/Pomodoro_Timer)
 - [Firebase Auth + CRUD Tutorial](https://github.com/FrenkieWang/Firebase_SimpleAuth)
