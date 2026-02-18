@@ -13,3 +13,6 @@ Welcome to **FrenkieWang**'s Github✨.
 
 ### Finished Project in 2025
 - [Weather Application](https://github.com/FrenkieWang/Weather_Application) 
+
+### Finished Project in 2024
+- [Food Pyramid](https://github.com/FrenkieWang/food_pyramid?tab=readme-ov-file)
