@@ -12,4 +12,4 @@ Welcome to **FrenkieWang**'s Github✨.
 - ⚡ Fun fact: ...
 
 ### Finished Project in 2025
-- Weather Application [Weather Application](https://github.com/FrenkieWang/Weather_Application) 
+- [Weather Application](https://github.com/FrenkieWang/Weather_Application) 
