@@ -10,7 +10,10 @@ Welcome to **FrenkieWang**'s Github✨.
 - 🌱 I’m currently learning **React** and **.Net**💻
 - 📫 How to reach me: **frenkiewang21@gmail.com**
 - ⚡ Fun fact: ...
-
+  
+### Finished Project in 2026
+- [Web-Based Audio Player](https://frenkiewang.github.io/Web-Based-Audio-Player/)
+  
 ### Finished Project in 2025
 - [Weather Application](https://github.com/FrenkieWang/Weather_Application) 
 
